@@ -9,27 +9,28 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Gabi Huiber
-tagline:             'noodling in the data stream'
-description:         'My notes on things I tinker with, or do for a living; the two overlap in places.'
-url:                 http://ghuiber.github.io
+title:               Mitchell Atlas
+tagline:             'Nuclear engineering for fun and profit'
+description:         'Main menu'
+url:                 http://xatlasm.github.io
 baseurl:             /
-paginate:            3
+paginate:            5
 github:                     
-  repo:              https://github.com/ghuiber/ghuiber.github.io
+  repo:              https://github.com/xatlasm/xatlasm.github.io
+excerpt_separator: <!--more-->
 
 # About/contact
 author:
-  name:              Gabi Huiber
-  url:               https://twitter.com/ghuiber
-  email:             ghuiber@gmail.com
+  name:              Mitchell Atlas
+  url:               https://twitter.com/xatlasm
+  email:             xatlasm@gmail.com
 
 # Custom vars
 version:             1.0.0
 
 # Tracking
-google_analytics: UA-2487306-2
+google_analytics: UA-46827087-1
 
 # Comments
-disqus: enorivernet
+disqus: xatlasm
 
