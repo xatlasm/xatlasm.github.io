@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing RSS, or&#58; How to waste (a little) less time on the Internet
+title: Basic RSS&#58; Using Feedly to Save Time Online
 ---
 Wouldn't it be great if you could get all of your favorite sites delivered to you automatically, like a magazine? You wouldn't have to keep checking them throughout the day for updates, so you could use that time for other purposes. And if you hate internet ads as much as I do (a lot!), what if I told you that you could easily avoid them as well?
 
