@@ -19,7 +19,7 @@ While this may seem like a funny way to write a number, it is very convenient fo
 
 To convert a number into scientific notation, place a decimal point after the most significant non-zero digit (that is, the first non-zero digit when counting from the left) to form *a*. Then, the number of times that you just moved the decimal becomes *b*. If you moved the decimal to the left, *b* is a positive number, and *vice versa*. For example:
 
-$$ 8675309$$ 
+$$8675309$$ 
 
 would be written as
 
@@ -66,11 +66,11 @@ $$ 1~\mathrm{u} = 1.661\times10^{-27}~\mathrm{kg} $$
 mass of proton = 1.007276466812 u
 mass of neutron = 1.00866491600 u
 
-Because of Einstein's famous $ E=mc^2 $ equation, mass can also be expressed using units of energy.
+Because of Einstein's famous $$ E=mc^2 $$ equation, mass can also be expressed using units of energy.
 
 $$ 1~\mathrm{u} = 931.494061~\mathrm{\frac{MeV}{c^2}} $$
 
-The $ c^2$ in $ \mathrm{\frac{MeV}{c^2}} $ is often removed, leaving $ \mathrm{MeV} $ for convenience. Since this is the same unit to denote energy, context determines whether mass or energy is meant.
+The $$ c^2$ in $$ \mathrm{\frac{MeV}{c^2}} $$ is often removed, leaving $$ \mathrm{MeV} $$ for convenience. Since this is the same unit to denote energy, context determines whether mass or energy is meant.
 
 ### Amount of matter
 
@@ -80,17 +80,17 @@ Because atoms are so small, when we want to scale up our calculations to human-s
 
 $$ 1~\mathrm{mol} = 6.022\times10^{23} $$
 
-You may notice that the mol itself does not have any physical units attached to it. This is not a mistake. A mole is simply a shorthand for that very, very large number, much like how "one dozen" in English means "12 of something". This may seem to be a very strange choice for a number, but its utility is that it is a conversion factor between atomic mass and grams! For example, the molecular mass (sum of the atomic masses of the atoms in a molecule) of water is 18.015, so one mole of water has a mass of 18.015 grams, but contains $ 6.022\times10^{23} $ atoms. In mathematical equations, the number of atoms is often indicated by the letter N.
+You may notice that the mol itself does not have any physical units attached to it. This is not a mistake. A mole is simply a shorthand for that very, very large number, much like how "one dozen" in English means "12 of something". This may seem to be a very strange choice for a number, but its utility is that it is a conversion factor between atomic mass and grams! For example, the molecular mass (sum of the atomic masses of the atoms in a molecule) of water is 18.015, so one mole of water has a mass of 18.015 grams, but contains $$ 6.022\times10^{23} $$ atoms. In mathematical equations, the number of atoms is often indicated by the letter N.
 
 ***
 
 ## Summary
 
-* You can easily write very big or very small numbers using scientific notation. It looks like $ a \times 10^{b} $ or *a* E *b*.
+* You can easily write very big or very small numbers using scientific notation. It looks like $ a \times 10^{b} $$ or *a* E *b*.
 * Elements are referred to by their symbols from the periodic table. When referring to a specific isotope, write the isotope's mass after the symbol: Au-197.
 * Energy is often measured in electronvolts (eV). $ 1~\mathrm{eV} = 1.602\times10^{-19}~\mathrm{J} $
-* Mass is measured in atomic mass units (u). $ 1~\mathrm{u} = 1.661\times10^{-27}~\mathrm{kg} $ Thanks to it $ E=mc^2 $, can also be measured using eV, just like energy! $ 1~\mathrm{u} = 931.494061~\mathrm{MeV} $
-* The unit for amount of matter is the mole (mol). $ 1~\mathrm{mol} = 6.022\times10^{23} $ Think of it as a scientist's version of a dozen.
+* Mass is measured in atomic mass units (u). $ 1~\mathrm{u} = 1.661\times10^{-27}~\mathrm{kg} $$ Thanks to it $$ E=mc^2 $, can also be measured using eV, just like energy! $ 1~\mathrm{u} = 931.494061~\mathrm{MeV} $
+* The unit for amount of matter is the mole (mol). $ 1~\mathrm{mol} = 6.022\times10^{23} $$ Think of it as a scientist's version of a dozen.
 
 ## Further resources
 
