@@ -11,11 +11,7 @@ Up until this point, I have mostly avoided using numbers, units, and equations b
 
 Scientists often work with very large and very small numbers and also need to keep track of the precision of measurements. For this purpose, scientific notation is used. Numbers in scientific notation take the form:
 
-$$
-\begin{displaymath}
-a \times 10^{b}
-\end{displaymath}
-$$
+$$a \times 10^{b}$$
 
 where *a* is a number (often a decimal) between 1 and 10 (negatives are ok too), and *b* is an integer (no decimals allowed). It is also acceptable to abbreviate $$ \times 10^{b}$$  by replacing it with: E *b*.
 
