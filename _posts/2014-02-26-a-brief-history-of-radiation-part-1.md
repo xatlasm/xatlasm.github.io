@@ -82,5 +82,3 @@ The Curies' work with radioactivity changed the foundations of atomic physics. T
 [In-depth biography of Marie Curie](http://www.aip.org/history/curie/contents.htm)
 
 [BBC documentary on Marie Curie's life](https://www.youtube.com/watch?v=Zz7Q-zZ4onc">BBC documentary on Marie Curie's life)
-
-___
