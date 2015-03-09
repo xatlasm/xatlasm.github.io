@@ -180,10 +180,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sidebar-profilepic img {
-  display: inline;
-  text-align: center;
-  padding: 0;
-  margin: 0em 0em 0em 0em;
+  padding: 3em;
+  margin: 0em 0em -1em 0em;
+  border-radius: 50em
+
 }
 
 /* Sidebar nav */
