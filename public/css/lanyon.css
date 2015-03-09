@@ -179,10 +179,6 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1em 0em 0em 0em;
 }
 
-.sidebar-images div {
-  text-align: center;
-}
-
 /* Sidebar nav */
 .sidebar-nav {
   border-bottom: 1px solid rgba(255,255,255,.1);
