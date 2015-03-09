@@ -40,11 +40,11 @@ footer-links:
   email: xatlasm@gmail.com
   facebook: mitchellatlas
   flickr:
-  github: xatlasm
-  instagram: xatlasm
+  github:
+  instagram: 
   linkedin: xatlasm
   pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: yesplease # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: xatlasm
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCR6kPODKwmz1Ksw8jkjyXsQ # channel/<your_long_string> or user/<user-name>
+  youtube: # channel/<your_long_string> or user/<user-name>
