@@ -34,6 +34,17 @@ google_analytics: UA-46827087-1
 # Comments
 disqus: xatlasm
 
-sass:
-  style: :expanded # You might prefer to minify using :compressed
-
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: xatlasm@gmail.com
+  facebook: mitchellatlas
+  flickr:
+  github: xatlasm
+  instagram: xatlasm
+  linkedin: xatlasm
+  pinterest:
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: xatlasm
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: channel/UCR6kPODKwmz1Ksw8jkjyXsQ # channel/<your_long_string> or user/<user-name>
