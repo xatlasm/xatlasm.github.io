@@ -70,7 +70,7 @@ Because of Einstein's famous $ E=mc^2 $ equation, mass can also be expressed usi
 
 $$ 1~\mathrm{u} = 931.494061~\mathrm{\frac{MeV}{c^2}} $$
 
-The $ c^2$ in $ \mathrm{\frac{MeV}{c^2}} $ is often removed, leaving $ \mathrm{MeV} $ for convenience. Since this is the same unit to denote energy, context determines whether mass or energy is meant.
+The $$ c^2$ in $$ \mathrm{\frac{MeV}{c^2}} $ is often removed, leaving $ \mathrm{MeV} $ for convenience. Since this is the same unit to denote energy, context determines whether mass or energy is meant.
 
 ### Amount of matter
 
