@@ -172,11 +172,15 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar-item p:last-child {
   margin-bottom: 0;
 }
-.sidebar-images {
+.sidebar-images img {
   display: inline;
   text-align: center;
   padding: 0;
   margin: 1em 0em 0em 0em;
+}
+
+.sidebar-images div {
+  display: inline;
 }
 
 /* Sidebar nav */
