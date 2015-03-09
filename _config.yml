@@ -49,3 +49,6 @@ footer-links:
 # Comments
 disqus: xatlasm
 
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
