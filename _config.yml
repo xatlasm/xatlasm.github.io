@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Mitchell Atlas
 tagline:             'Nuclear engineering for fun and profit'
-description:         'Main Menu'
+description:         ''
 profilepic:          '/public/smallprofile.jpg'
 url:                 http://xatlasm.github.io
 baseurl:             /
