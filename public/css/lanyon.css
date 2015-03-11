@@ -175,8 +175,8 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar-images img {
   display: inline;
   text-align: center;
-  padding: 0;
-  margin: 1em 0em 0em 0em;
+  margin-left: 1%;
+  margin-right: 1%;
 }
 
 .sidebar-profilepic img {
