@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               Mitchell Atlas
 tagline:             'Nuclear engineering for fun and profit'
 description:         
-profilepic:          '/public/assets/profilepic/smallprofile.jpg'
+profilepic:          '/assets/profilepic/smallprofile.jpg'
 url:                 http://xatlasm.github.io
 baseurl:             /
 paginate:            5
