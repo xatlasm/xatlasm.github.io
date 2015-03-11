@@ -9,9 +9,5 @@ title: Archive
     <li><a href="{{ site.baseurl }}tags.html#{{tag}}" class="tag">{{ tag }}</a></li>
   {% endfor %}
 </ul>
-<div>
-  <span style="float: left;"><a href="{{ post.url }}">{{ post.title }}</span>
-  <span style="float: right;">{{ post.date | date_to_string }}</span>
-</div>
-<div style="clear: both;"></div>​
+<div><span>{{ post.date | date: "%m/%d/%Y" }}</span> &raquo; [ {{ post.title }} ]({{ post.url }})</div>
 {% endfor %}

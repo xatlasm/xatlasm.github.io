@@ -180,11 +180,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sidebar-profilepic {
-/*  padding: 3em; */
-/*  margin: 0em 0em -1em 0em; */
-/*  border-radius: 100px */
+    width: 160px;
+	height: 150px;
+    /* padding: 3em; */
+    border-radius: 75px
+   	-webkit-border-radius: 75px;
+	-moz-border-radius: 75px;
+    margin-top: 2em;
+    margin-left: auto;
+	margin-right: auto;
 
-	width: 160px;
+	/* width: 160px;
 	height: 150px;
 	border-radius: 75px;
 	-webkit-border-radius: 75px;
@@ -196,7 +202,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin-top: 2em;
 	display: block;
 	margin-left: auto;
-	margin-right: auto;
+	margin-right: auto; */
 }
 
 /* Sidebar nav */
