@@ -179,7 +179,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1em 0em 0em 0em;
 }
 
-.sidebar-profilepic {
+.sidebar-profilepic img {
     width: 160px;
 	height: 150px;
     /* padding: 3em; */
