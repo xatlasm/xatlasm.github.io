@@ -10,9 +10,11 @@
   </div>
   
 
+{% if site.description %}
 <div class="sidebar-item" style="text-align:center">
   <p>{{ site.description }}</p>
 </div>
+{% endif %}
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
