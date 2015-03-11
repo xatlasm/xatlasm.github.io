@@ -40,13 +40,13 @@ contamination predicted in the Pacific Ocean.
 
 The [normal
 range](http://www.nlm.nih.gov/medlineplus/ency/article/003484.htm) for
-potassium in human blood[^1] is 3.7\~5.2 mEq/L. mEq stands for
+potassium in human blood[^1] is 3.7~5.2 mEq/L. mEq stands for
 milliequivalent, and is a fancy unit for measuring ion concentrations in
 solution. We can easily convert this to a more standard milligrams per
 liter, by noting that 1 mEq = 1 mmol (millimole) for potassium ions, and
 that the atomic weight of potassium is 39.0983 milligrams per millimole.
 In other words, the normal concentration of potassium in human blood is
-145\~203 mg/L.
+145~203 mg/L.
 
 $$3.7\sim 5.2\: \mathrm{\frac{mEq}{L}} \: \times 1\: \mathrm{\frac{mmol}{mEq}} \times 39.0983\: \mathrm{\frac{mg}{mmol}} =  145\sim 203\: \mathrm{\frac{mg}{L}}$$
 
@@ -64,10 +64,10 @@ find its radioactivity from potassium.
 $$31.7 \: \mathrm{\frac{Bq}{g}} \times 145\sim 203\: \mathrm{\frac{mg}{L}} = 4.60\sim 6.44\: \mathrm{\frac{Bq}{L}}$$
 
 Scaled up to match the seawater volume quoted above, this comes out to
-4,600\~6,440 Bq/m\^3, **over 150 times higher** than the predicted
+4,600~6,440 Bq/m^3, **over 150 times higher** than the predicted
 increase in seawater radioactivity along the West Coast of North
 America! Put another way, the predicted extra radioactivity in 1000
-liters of seawater (\~30 Bq) is the same amount that can be found in
+liters of seawater (~30 Bq) is the same amount that can be found in
 about 6 liters of human blood.
 
 The [natural radioactivity of
