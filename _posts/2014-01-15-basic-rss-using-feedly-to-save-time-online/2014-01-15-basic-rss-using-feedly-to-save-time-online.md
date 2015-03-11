@@ -55,14 +55,14 @@ How do I add sites to Feedly?
 In Feedly, click the "Add Content" button in the upper-left part of the
 window.
 
-![]({{ site.url }}/assets/posts/images/feedly-add-content.png){:height="250px"}
+![]({{ site.url }}/assets/posts/images/feedly-add-content.png){:height="400px"}
 
 Then, in the search box, search for the site you are interested in, or
 type/paste a URL directly if you already know which site you want to
 read. You can also browse Feedly's site collection if you are looking
 for something new.
 
-![]({{ site.url }}/assets/posts/images/feedly-search.png){:height="250px"}
+![]({{ site.url }}/assets/posts/images/feedly-search.png){:height="400px"}
 
 You mentioned smartphone apps. Tell me more.
 --------------------------------------------
