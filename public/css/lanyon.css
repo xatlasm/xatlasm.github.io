@@ -184,7 +184,7 @@ h1, h2, h3, h4, h5, h6 {
 /*  margin: 0em 0em -1em 0em; */
 /*  border-radius: 100px */
 
-	width: 150px;
+	width: 160px;
 	height: 150px;
 	border-radius: 75px;
 	-webkit-border-radius: 75px;
@@ -193,7 +193,7 @@ h1, h2, h3, h4, h5, h6 {
 	/*box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);*/
-	margin-top: 2em
+	margin-top: 2em;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
