@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fukushima Seawater and the Radioactivity of Human Blood
+tags: fukushima nuclear news science
 ---
 
 You may have come across articles [like this

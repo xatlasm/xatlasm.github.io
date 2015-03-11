@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Interesting and educational YouTube channels
+tags: fun internet youtube
 ---
 
 I'm sure that I've mentioned this before, but one of my favorite ways to

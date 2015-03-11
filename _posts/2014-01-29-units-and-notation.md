@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Units and notation
+tags: lesson nuclear units
 ---
 
 Up until this point, I have mostly avoided using numbers, units, and

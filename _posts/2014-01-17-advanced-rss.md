@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Advanced RSS&#58; a review of RSSOwl"
+tags: lesson fun internet rss review
 ---
 
 [Last time](https://xatlasm.github.io/2014/01/15/introducing-rss/) I
