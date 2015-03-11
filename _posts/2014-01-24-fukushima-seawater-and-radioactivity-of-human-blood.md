@@ -8,7 +8,7 @@ You may have come across articles [like this
 one](http://www.naturalnews.com/043585_fukushima_radiation_pacific_ocean_marine_science_organization.html)
 across the web breathlessly heralding "alarming" predictions of seawater
 contamination from Fukushima of up to 30 becquerels per cubic meter
-(Bq/m\^3) along the West Coast of North America. What do these numbers
+(Bq/m^3) along the West Coast of North America. What do these numbers
 mean? Should you be worried?
 
 <!--more-->
@@ -20,7 +20,7 @@ predict the dispersion patterns of cesium-137 released from Fukushima
 across the North Pacific Ocean over the next few decades. They concluded
 by predicting that the seawater along some areas along the West Coast of
 North America will experience cesium-137 concentrations between 10 and
-30 Bq/m\^3 between 2014 and 2020. But is that a lot of radioactivity?
+30 Bq/m^3 between 2014 and 2020. But is that a lot of radioactivity?
 
 Let's compare it to something that you are probably more familiar with:
 blood! Everyone knows that blood is essential to keep your body working
@@ -72,11 +72,11 @@ about 6 liters of human blood.
 
 The [natural radioactivity of
 seawater](http://www.dailykos.com/story/2013/11/07/1253941/-Putting-Fukushima-in-Perspetive-A-primer-on-radioactivity-in-the-Ocean#)
-is about 13 Bq/L = 13,000 Bq/m\^3, so a 30 Bq/m\^3 increase would
+is about 13 Bq/L = 13,000 Bq/m^3, so a 30 Bq/m^3 increase would
 increase the water's natural radioactivity by only 0.23%. This is so
 small that it will be undetectable even by sensitive measuring equipment
 (the detection limit for cesium-137 in water is about 0.5 Bq/L, or 500
-Bq/m\^3).
+Bq/m^3).
 
 In conclusion, the minuscule amount of extra radioactivity in the
 seawater far from Fukushima is predicted to reach a maximum
