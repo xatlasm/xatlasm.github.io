@@ -4,15 +4,15 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date: '%B %d, %Y' }}</span>
-  <ul class="tags">
+  {{ content }}
+  {% include comments.html %}
+</div>
+<ul class="tags">
   <li>Tags: &nbsp; &nbsp;</li>
   {% for tag in post.tags %}
     <li><a href="{{ site.baseurl }}tags.html#{{tag}}" class="tag">{{ tag }}</a></li>
   {% endfor %}
 </ul>
-  {{ content }}
-  {% include comments.html %}
-</div>
 
 <!-- Screw related posts, not worth it.
 <div class="related">
