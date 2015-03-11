@@ -15,7 +15,7 @@ description:
 profilepic:          '/assets/profilepic/smallprofile.jpg'
 url:                 http://xatlasm.github.io
 baseurl:             /
-post_assets_url:     {{ site.url }}/assets/posts
+post_assets_url:     /assets/posts
 paginate:            5
 github:                     
   repo:              https://github.com/xatlasm/xatlasm.github.io
