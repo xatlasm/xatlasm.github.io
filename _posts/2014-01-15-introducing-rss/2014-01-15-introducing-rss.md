@@ -16,6 +16,7 @@ Well, luckily for you, I'm about to!
 
 What is RSS?
 ------------
+![](rss.png)
 
 RSS (Rich Site Summary or Really Simple Syndication) is a very common
 (though not widely known by many people) technology that collects the
@@ -54,14 +55,14 @@ How do I add sites to Feedly?
 In Feedly, click the "Add Content" button in the upper-left part of the
 window.
 
-![](http://www.mitchellatlas.com/wp-content/uploads/2014/01/feedly-add-content.png)
+![](feedly-add-content.png)
 
 Then, in the search box, search for the site you are interested in, or
 type/paste a URL directly if you already know which site you want to
 read. You can also browse Feedly's site collection if you are looking
 for something new.
 
-![](http://www.mitchellatlas.com/wp-content/uploads/2014/01/feedly-search.png)
+![](feedly-search.png)
 
 You mentioned smartphone apps. Tell me more.
 --------------------------------------------
