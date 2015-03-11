@@ -16,7 +16,7 @@ Well, luckily for you, I'm about to!
 
 What is RSS?
 ------------
-![]({{ site.url }}/assets/posts/images/rss.png){:height="100px" width="100px"}
+![]({{ site.url }}/assets/posts/images/rss.png){:height="10rem" width="100rem"}
 
 RSS (Rich Site Summary or Really Simple Syndication) is a very common
 (though not widely known by many people) technology that collects the
