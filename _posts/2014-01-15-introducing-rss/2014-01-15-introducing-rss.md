@@ -16,7 +16,7 @@ Well, luckily for you, I'm about to!
 
 What is RSS?
 ------------
-![]({{ site.url }}{{ site.post_assets_url }}/{{page.date | date: '%Y-%m-%d' }}/rss.png)
+![]({{ site.url }}{{ site.post_assets_url }}/{{page.date | date: '%Y-%m-%d' }}-{{ page.title }}/rss.png)
 
 RSS (Rich Site Summary or Really Simple Syndication) is a very common
 (though not widely known by many people) technology that collects the
