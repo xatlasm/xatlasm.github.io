@@ -2,7 +2,6 @@
 layout: post
 title: "Basic RSS&#58; Using Feedly to Save Time Online"
 tags: fun internet lesson rss
-assets: {{ site.url }}{{ site.post_assets_url }}/{{ page.title }}
 ---
 
 Wouldn't it be great if you could get all of your favorite sites
@@ -17,7 +16,7 @@ Well, luckily for you, I'm about to!
 
 What is RSS?
 ------------
-![]({{ page.assets }}/rss.png)
+![]({{ site.url }}/assets/posts/images/rss.png)
 
 RSS (Rich Site Summary or Really Simple Syndication) is a very common
 (though not widely known by many people) technology that collects the
