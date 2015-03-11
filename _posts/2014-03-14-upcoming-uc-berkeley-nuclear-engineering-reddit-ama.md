@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upcoming UC Berkeley Nuclear Engineering Reddit AMA
-tags: announcement nuclear reddit
+tags: nuclear reddit
 ---
 
 Just a short announcement that there is a Reddit AMA (Ask Me Anything)
