@@ -70,7 +70,7 @@ title: CV
 * MCNP
 * ORIGEN
 * COMSOL
-* $$\LaTeX$$
+* \$$\LaTeX$$
 * Python
 * MS Office (Word, Excel, Powerpoint)
 * HTML
