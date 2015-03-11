@@ -17,7 +17,7 @@ title: Home
     {{ post.date | date: '%B %d, %Y' }}
     
         <ul class="tags">
-      <li>Tags: &nbsp; &nbsp;</li>
+      <li>Tags: &nbsp;</li>
       {% for tag in post.tags %}
         <li><a href="{{ site.baseurl }}tags.html#{{tag}}" class="tag">{{ tag }}</a></li>
       {% endfor %}
