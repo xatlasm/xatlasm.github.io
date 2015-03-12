@@ -4,7 +4,7 @@ title: "Advanced RSS&#58; a review of RSSOwl"
 tags: lesson fun internet rss review
 ---
 
-[Last time](https://xatlasm.github.io/2014/01/15/introducing-rss/) I
+[Last time]({% post_url 2014-01-15-basic-rss-using-feedly-to-save-time-online %}) I
 introduced RSS as a way to keep up with all of your favorite websites
 without having to visit them one by one. I recommended a popular online
 RSS reader called [Feedly](http://feedly.com/index.html#welcome) to
@@ -21,7 +21,7 @@ probably be best served by a more powerful RSS reader. Enter
 Everything but the kitchen sink
 -------------------------------
 
-[![](http://www.rssowl.org/images/contribute/getrssowl_large)](http://www.rssowl.org/download)
+![](http://www.rssowl.org/images/contribute/getrssowl_large)](http://www.rssowl.org/download)
 
 One of my readers ([@wataruen](https://twitter.com/wataruen)) introduced
 me to RSSOwl. RSSOwl is a free, desktop-based RSS reader available for
@@ -44,12 +44,12 @@ collection in Feedly, I used Feedly to download my feeds as an OPML file
 and then imported them into RSSOwl.
 
 ![rssowl opml
-import](http://www.mitchellatlas.com/wp-content/uploads/2014/01/rssowl-opml-import.png)
+import]({{ site.url }}/assets/posts/images/rssowl-opml-import.png)
 
 After importing your feeds, you are presented with the program's main
 interface.
 
-![](http://www.mitchellatlas.com/wp-content/uploads/2014/01/main-screen.png)
+![]({{ site.url }}/assets/posts/images/main-screen.png)
 
 You can change the layout of the interface to match your personal taste.
 I prefer the "widescreen" layout which shows the list of feeds displayed
@@ -76,7 +76,7 @@ a copy of the article in the folder (RSSOwl calls them "bins") called
 "typhoon alert!". In this way, you can pick out relevant posts matching
 any criteria that you want and perform actions on them.
 
-![filtersettings](http://www.mitchellatlas.com/wp-content/uploads/2014/01/filtersettings.png)
+![filtersettings]({{ site.url }}/assets/posts/images/filtersettings.png)
 
 Another unique feature of RSSOwl is the ability to create saved searches
 as a feed. This allows you to search a site (such as YouTube or Google
@@ -85,11 +85,11 @@ to you as a feed. This could come in handy if you are monitoring news on
 a specific topic instead of a regular source.
 
 ![keyword
-feeds](http://www.mitchellatlas.com/wp-content/uploads/2014/01/keyword-feeds.png)
+feeds]({{ site.url }}/assets/posts/images/keyword-feeds.png)
 
 Finally, if you dig into the settings panel, you will see many of the
 other features that RSSOwl supports, like customized keyboard shortcuts,
-password-protected sites, add-ons for additional functionality, and a
+d-protected sites, add-ons for additional functionality, and a
 news update notifier.
 
 In conclusion
