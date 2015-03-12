@@ -55,12 +55,15 @@ EIT-certified nuclear engineer with further chemical engineering / physics backg
 * Scientific organization dedicated to promoting research and development on health physics and to communicating the practices of radiation protection to society
 
 ### University of California Ballroom Dancers, 2008 - 2011
+
 #### Social Dancesport Coordinator, 2009 - 2010
+
 * Scheduled and supervised weekly social ballroom dance course for members of the local community
 
 ## Honors & Awards
 
 ### Monbukagakusho Scholarship, October 2012 - September 2014
+
 * Japanese Ministry of Education, Culture, Sports, Science and Technology
 * Scholarship for international students covering full tuition and living expenses for study at a Japanese university
 
