@@ -5,6 +5,10 @@ title: CV
 
 # Mitchell H. Atlas
 
+## Summary
+
+EIT-certified nuclear engineer with further chemical engineering / physics background, extensive IT experience, and upper-intermediate Japanese language skills (reading, writing, listening, speaking).
+
 ## Education
 
 ### The University of Tokyo, September 2014
