@@ -21,7 +21,7 @@ probably be best served by a more powerful RSS reader. Enter
 Everything but the kitchen sink
 -------------------------------
 
-![](http://www.rssowl.org/images/contribute/getrssowl_large)](http://www.rssowl.org/download)
+[![](http://www.rssowl.org/images/contribute/getrssowl_large)](http://www.rssowl.org/download)
 
 One of my readers ([@wataruen](https://twitter.com/wataruen)) introduced
 me to RSSOwl. RSSOwl is a free, desktop-based RSS reader available for
