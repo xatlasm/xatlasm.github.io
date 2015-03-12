@@ -7,7 +7,7 @@ title: CV
 
 ## Summary
 
-EIT-certified nuclear engineer with extensive chemical engineering / physics background, extensive IT experience, and upper-intermediate Japanese language skills (reading, writing, listening, speaking).
+EIT-certified nuclear engineer with extensive chemical engineering / physics background, broad CS/IT experience, and upper-intermediate Japanese language skills (reading, writing, listening, speaking).
 
 ## Education
 
