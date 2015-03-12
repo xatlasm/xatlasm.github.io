@@ -20,7 +20,7 @@ I am a nuclear engineer by trade, but I have many other interests, including (bu
 * Podcasts
 * Youtube
 
-...and other things that I can't think of at the moment. 
+...and other things that I can't think of at the moment.
 
 ## About this site
 
