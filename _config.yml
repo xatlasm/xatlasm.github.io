@@ -20,7 +20,6 @@ paginate:            5
 github:                     
   repo:              https://github.com/xatlasm/xatlasm.github.io
 excerpt_separator:  <!--more-->
-timezone:           America/Los_Angeles
 
 # About/contact
 author:
