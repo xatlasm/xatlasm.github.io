@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Brief History of Radiation, Part 1"
+title: "A Brief History of Radiation"
 tags: history lesson nuclear science
 ---
 
