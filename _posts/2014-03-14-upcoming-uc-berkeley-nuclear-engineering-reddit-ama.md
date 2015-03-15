@@ -2,7 +2,6 @@
 layout: post
 title: Upcoming UC Berkeley Nuclear Engineering Reddit AMA
 tags: nuclear reddit
-date: 2014-03-13 15:19:20 +0000
 ---
 
 Just a short announcement that there is a Reddit AMA (Ask Me Anything)
