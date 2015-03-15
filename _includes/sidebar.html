@@ -58,6 +58,6 @@
 </div>
 
 <div class="sidebar-item">
-    <p>Last updated: {{ site.time | date_to_string }}.</p>
+    <p>Last updated: {{ site.time | date_to_string | date: '%B %d, %Y' }}.</p>
 </div>
 </div>
