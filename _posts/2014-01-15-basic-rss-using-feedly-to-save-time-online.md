@@ -2,6 +2,7 @@
 layout: post
 title: "Basic RSS&#58; Using Feedly to Save Time Online"
 tags: fun internet lesson rss
+date: 2014-01-14 15:00:30 +0000
 ---
 
 Wouldn't it be great if you could get all of your favorite sites

@@ -2,6 +2,7 @@
 layout: post
 title: Globalization Challenges for Japanese Companies
 tags: opinion japan economics
+date: 2014-01-07 15:00:00 +0000
 ---
 
 A few months ago, Masamoto Yashiro, CEO of Shinsei Bank, spoke about

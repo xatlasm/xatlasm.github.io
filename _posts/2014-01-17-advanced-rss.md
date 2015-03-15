@@ -2,6 +2,7 @@
 layout: post
 title: "Advanced RSS&#58; a review of RSSOwl"
 tags: lesson fun internet rss review
+date: 2014-01-16 15:00:42 +0000
 ---
 
 [Last time]({% post_url 2014-01-15-basic-rss-using-feedly-to-save-time-online %}) I
