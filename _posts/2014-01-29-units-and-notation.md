@@ -2,7 +2,6 @@
 layout: post
 title: Units and notation
 tags: lesson nuclear units
-date: 2014-01-28 15:00:04 +0000
 ---
 
 Up until this point, I have mostly avoided using numbers, units, and

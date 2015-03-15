@@ -2,7 +2,6 @@
 layout: post
 title: Atoms and Elements
 tags: lesson nuclear science
-date: 2014-01-19 15:00:00 +0000
 ---
 
 Before we begin to learn about radiation, we must first develop a basic

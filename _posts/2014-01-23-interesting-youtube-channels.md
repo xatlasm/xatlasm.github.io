@@ -2,7 +2,6 @@
 layout: post
 title: Interesting and educational YouTube channels
 tags: fun internet youtube
-date: 2014-01-22 15:10:58 +0000
 ---
 
 I'm sure that I've mentioned this before, but one of my favorite ways to
