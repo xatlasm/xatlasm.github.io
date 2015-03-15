@@ -2,6 +2,7 @@
 layout: post
 title: "A Brief History of Radiation"
 tags: history lesson nuclear science
+date: 2014-02-25 16:08:44 +0000
 ---
 
 Though radiation and nuclear technology may seem like a hallmark of the
