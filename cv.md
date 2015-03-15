@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+permalink: /cv/
 ---
 
 # Mitchell H. Atlas
