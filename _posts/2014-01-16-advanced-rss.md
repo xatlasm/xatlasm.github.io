@@ -4,7 +4,7 @@ title: "Advanced RSS&#58; a review of RSSOwl"
 tags: lesson fun internet rss review
 ---
 
-[Last time]({% post_url 2014-01-15-basic-rss-using-feedly-to-save-time-online %}) I
+[Last time]({% post_url 2014-01-14-basic-rss-using-feedly-to-save-time-online %}) I
 introduced RSS as a way to keep up with all of your favorite websites
 without having to visit them one by one. I recommended a popular online
 RSS reader called [Feedly](http://feedly.com/index.html#welcome) to
