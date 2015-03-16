@@ -370,7 +370,7 @@ a.sidebar-nav-item:focus {
 	font: 14px/1.5 'PT Sans', serif;
   background: #676767;
   border-radius: 3px 0 0 3px;
-  color: #lightgray;
+  color: lightgray;
   display: inline-block;
   height: 26px;
   line-height: 26px;
