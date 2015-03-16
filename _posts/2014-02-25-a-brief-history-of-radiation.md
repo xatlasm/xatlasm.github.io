@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Brief History of Radiation"
-tags: history lesson nuclear science
+tags: history nuclear science
 date: 2014-02-25 16:08:44 +0000
 ---
 

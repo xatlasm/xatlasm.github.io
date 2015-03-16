@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interesting and educational YouTube channels
-tags: fun internet youtube
+tags: internet youtube video review
 date: 2014-01-22 15:10:58 +0000
 ---
 

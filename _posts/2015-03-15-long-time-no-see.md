@@ -2,6 +2,7 @@
 layout: post
 title: Long time no see
 date: "2015-03-15 23:43"
+tags: announcement
 published: true
 ---
 

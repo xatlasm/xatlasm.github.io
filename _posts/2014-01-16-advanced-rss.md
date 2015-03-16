@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advanced RSS&#58; a review of RSSOwl"
-tags: lesson fun internet rss review
+tags:  internet rss review
 date: 2014-01-16 15:00:42 +0000
 ---
 

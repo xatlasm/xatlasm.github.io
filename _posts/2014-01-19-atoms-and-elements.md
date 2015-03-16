@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Atoms and Elements
-tags: lesson nuclear science
+tags: nuclear
 date: 2014-01-19 15:00:00 +0000
 ---
 
