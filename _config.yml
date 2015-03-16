@@ -11,15 +11,16 @@ relative_permalinks: true
 # Setup
 title:               Mitchell Atlas
 tagline:             'Nuclear engineering for fun and profit'
-description:         
+description:
 profilepic:          '/assets/profilepic/smallprofile.jpg'
 url:                 https://xatlasm.github.io
 baseurl:             /
 post_assets_url:     /assets/posts
 paginate:            5
-github:                     
+github:
   repo:              https://github.com/xatlasm/xatlasm.github.io
 excerpt_separator:  <!--more-->
+timezone:           America/Los_Angeles
 
 # About/contact
 author:
@@ -43,7 +44,7 @@ footer-links:
   facebook: mitchellatlas
   flickr:
   github:
-  instagram: 
+  instagram:
   linkedin: xatlasm
   pinterest:
   rss: yesplease # just type anything here for a working RSS icon, make sure you set the "url" above!
