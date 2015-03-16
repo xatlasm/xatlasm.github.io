@@ -368,7 +368,7 @@ a.sidebar-nav-item:focus {
 
 .tag {
 	font: 14px/1.5 'PT Sans', serif;
-  background: #676767;
+  background: #757575;
   border-radius: 3px 0 0 3px;
   color: lightgray;
   display: inline-block;
@@ -394,9 +394,9 @@ a.sidebar-nav-item:focus {
 }
 
 .tag::after {
-  background: #A9A9A9;
+  background: silver;
   border-bottom: 13px solid transparent;
-  border-left: 10px solid #676767;
+  border-left: 10px solid #757575;
   border-top: 13px solid transparent;
   content: '';
   position: absolute;
