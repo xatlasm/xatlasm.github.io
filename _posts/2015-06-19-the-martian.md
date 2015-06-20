@@ -2,7 +2,7 @@
 layout: post
 title: The Martian
 tags: science review reading
-date: '2015-06-19 20:44'
+date: '2015-06-19 23:34'
 ---
 
 I recently read Andy Weir's _The Martian_, a novel about an astronaut who is marooned on Mars when his crew is forced to leave him for dead during an unexpected dust storm. The book chronicles his efforts to stay alive until a rescue team can bring him back to Earth.
