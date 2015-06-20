@@ -5,13 +5,13 @@ tags: science review reading
 date: '2015-06-19 23:34'
 ---
 
-I recently read Andy Weir's _The Martian_, a novel about an astronaut who is marooned on Mars when his crew is forced to leave him for dead during an unexpected dust storm. The book chronicles his efforts to stay alive until a rescue team can bring him back to Earth.
+I recently read Andy Weir's [_The Martian_](http://smile.amazon.com/dp/B00EMXBDMA), a novel about an astronaut who is marooned on Mars when his crew is forced to leave him for dead during an unexpected dust storm. The book chronicles his efforts to stay alive until a rescue team can bring him back to Earth.
 
 <!--more-->
 
 I very much enjoyed this book because the author went to great pains to ensure the scientific accuracy of the protagonist's survival actions. I felt that this enhanced my appreciation of the protagonist's choices because I could follow along with his thought process and see the realistic consequences of his actions.
 
-_However_, the author made a very basic chemistry mistake that caught my attention. Though the author admitted in an [interview][b0a5267e] that he was not very good with chemistry, but given the amount of research and effort he put into the science throughout the book, I'm a bit disappointed that he overlooked this one. I'd like to set the record straight here once and for all!.
+_However_, the author made a very basic chemistry mistake that caught my attention. Though the author admitted in an [interview][b0a5267e] that he was not very good with chemistry, given the amount of research and effort he put into the science throughout the book, I'm a bit disappointed that he overlooked this one. I'd like to set the record straight here once and for all!.
 
 This is the situation:
 
