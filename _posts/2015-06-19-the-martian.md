@@ -11,7 +11,7 @@ I recently read [Andy Weir](http://www.andyweirauthor.com/)'s [_The Martian_](ht
 
 I very much enjoyed this book because the author went to great pains to ensure the scientific accuracy of the protagonist's survival actions. I felt that this enhanced my appreciation of the protagonist's choices because I could follow along with his thought process and see the realistic consequences of his actions.
 
-_However_, the author made a very basic chemistry mistake that caught my attention. Though the author admitted in an [interview][b0a5267e] that he was not very good with chemistry, given the amount of research and effort he put into the science throughout the book, I'm a bit disappointed that he overlooked this one. I'd like to set the record straight here once and for all!.
+_However_, the author made a very basic chemistry mistake that caught my attention. Though the author admitted in an [interview][b0a5267e] that he made some chemistry mistakes, given the amount of research and effort he put into the science throughout the book, I'm a bit disappointed that he overlooked such a simple mistake like this one. I'd like to set the record straight here once and for all!
 
 This is the situation:
 
@@ -45,4 +45,4 @@ The moral of this story is that you should not calculate reactions using volume!
 
 But I'm nitpicking! Overall, it was a very good novel and I am looking forward to seeing the movie version when it is released later this year.
 
-  [b0a5267e]: https://www.youtube.com/watch?v=5SemyzKgaUU "Adam Savage Interviews 'The Martian' Author Andy Weir"
+  [b0a5267e]: https://youtu.be/5SemyzKgaUU?t=2162 "Adam Savage Interviews 'The Martian' Author Andy Weir"
