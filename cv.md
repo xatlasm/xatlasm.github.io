@@ -10,19 +10,6 @@ permalink: /cv/
 
 EIT-certified nuclear engineer with extensive chemical engineering / physics background, broad CS/IT experience, and upper-intermediate Japanese language skills (reading, writing, listening, speaking).
 
-## Education
-
-### The University of Tokyo, September 2014
-* Master of Engineering: Nuclear Engineering and Management
-* Course GPA: 3.97
-* Thesis Title: Quantitative Modelling of DNA Mutation Induction at Low Doses and Dose Rates
-
-### University of California, Berkeley, May 2012
-* Bachelor of Science: Chemical Engineering and Nuclear Engineering
-* Minor: Physics
-* Course GPA: 3.09
-* Senior Design Project: Tritium Management Approach for FHRs Using Supercritical Steam, Open-Air Brayton, and Closed Gas Brayton Power Cycles
-
 ## Work Experience
 
 ### Exelon Nuclear, May 2015 - Present
@@ -38,6 +25,19 @@ EIT-certified nuclear engineer with extensive chemical engineering / physics bac
 ### Local Computer Consulting Service, 2004 - 2009
 * Carlsbad, CA
 * Founded and ran startup business focusing on computer education and technical support in my local community
+
+## Education
+
+### The University of Tokyo, September 2014
+* Master of Engineering: Nuclear Engineering and Management
+* Course GPA: 3.97
+* Thesis Title: Quantitative Modelling of DNA Mutation Induction at Low Doses and Dose Rates
+
+### University of California, Berkeley, May 2012
+* Bachelor of Science: Chemical Engineering and Nuclear Engineering
+* Minor: Physics
+* Course GPA: 3.09
+* Senior Design Project: Tritium Management Approach for FHRs Using Supercritical Steam, Open-Air Brayton, and Closed Gas Brayton Power Cycles
 
 ## Certifications
 
