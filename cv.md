@@ -13,6 +13,7 @@ EIT-certified nuclear engineer with extensive chemical engineering / physics bac
 ## Work Experience
 
 ### Exelon Nuclear, May 2015 - Present
+#### NSSS Systems Engineer
 
 ### Noah Precision, LLC, Summer 2011
 * R&D Engineering Internship
