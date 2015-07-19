@@ -25,6 +25,8 @@ EIT-certified nuclear engineer with extensive chemical engineering / physics bac
 
 ## Work Experience
 
+### Exelon Nuclear, May 2015 - Present
+
 ### Noah Precision, LLC, Summer 2011
 * R&D Engineering Internship
 * Tested performance characteristics of Peltier elements for use in industrial chillers
