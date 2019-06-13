@@ -3,8 +3,6 @@ markdown:            kramdown
 highlighter:         rouge
 
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           /:title
 
 # Setup
@@ -13,7 +11,7 @@ tagline:             'Engineering for fun and profit'
 description:
 profilepic:          '/assets/profilepic/smallprofile.jpg'
 url:                 http://www.mitchellatlas.com
-baseurl:             /
+baseurl:             ''
 post_assets_url:     /assets/posts
 paginate:            5
 github:
