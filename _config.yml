@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               Mitchell Atlas
-tagline:             'Nuclear engineering for fun and profit'
+tagline:             'Engineering for fun and profit'
 description:
 profilepic:          '/assets/profilepic/smallprofile.jpg'
 url:                 http://www.mitchellatlas.com
@@ -43,7 +43,7 @@ footer-links:
   email: xatlasm@gmail.com
   facebook: mitchellatlas
   flickr:
-  github:
+  github: xatlasm
   instagram:
   linkedin: xatlasm
   pinterest:
